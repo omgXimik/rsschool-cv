@@ -1,5 +1,7 @@
 # Timofeev Nikita
 
+![I](..%5CTitle.jpg)
+
 ## Junior Frontend Developer
 
 ### My contacts
