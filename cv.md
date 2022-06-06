@@ -1,6 +1,6 @@
 # Timofeev Nikita
 
-![I](..%5CTitle.jpg)
+![I](C:\Users\Владелец\OneDrive\Desktop\Title.jpg)
 
 ## Junior Frontend Developer
 
