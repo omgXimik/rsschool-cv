@@ -1,6 +1,6 @@
 # Timofeev Nikita
 
-![I am Junior](..%5CTitle.jpg)
+![My foto](assets/img/fotovc.jpg)
 
 ## Junior Frontend Developer
 
