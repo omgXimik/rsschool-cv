@@ -25,3 +25,28 @@ I am 30. I love studying and discovering something new for myself. I am interest
   1. Visual Studio Code
 
 ### Code examples
+
+```
+const assert = require("chai").assert;
+
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);
+  });
+});
+```
+
+### Work experience
+
+Junior dev. [RSschool JavaScript FrontEnd Pre-School](https://app.rs.school/)
+
+### Education
+
+> Finance and credit 2008-2013
+
+### English language
+
+Elementary A1
