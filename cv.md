@@ -11,7 +11,7 @@
 
 ### Personal information
 
-I am 30. I love studying and discovering something new for myself. I am interested in books, astronomy and cars. I lead an active lifestyle. My hobbies are fishing and cycling. I want to learn a new profession for myself as a front-end developer and become a professional in it. To do this, I have perseverance, determination, ambition, the desire to learn new things and work in a team.
+I am 31. I love studying and discovering something new for myself. I am interested in books, astronomy and cars. I lead an active lifestyle. My hobbies are fishing and cycling. I want to learn a new profession for myself as a front-end developer and become a professional in it. To do this, I have perseverance, determination, ambition, the desire to learn new things and work in a team.
 
 ### Skills
 
