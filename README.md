@@ -1,1 +1,1 @@
-# rsschool-cv
+https://omgXimik.github.io/rsschool-cv/cv
